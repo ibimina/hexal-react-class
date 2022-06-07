@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hexal-react-class/static/css/main.715eb6f2.css",
+    "main.js": "/hexal-react-class/static/js/main.29a85440.js",
+    "index.html": "/hexal-react-class/index.html",
+    "main.715eb6f2.css.map": "/hexal-react-class/static/css/main.715eb6f2.css.map",
+    "main.29a85440.js.map": "/hexal-react-class/static/js/main.29a85440.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.715eb6f2.css",
+    "static/js/main.29a85440.js"
+  ]
+}

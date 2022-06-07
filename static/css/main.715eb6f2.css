@@ -1,0 +1,2 @@
+*{margin:0;padding:0}body{align-items:center;display:flex;justify-content:center;width:100%}.wrapper{margin:2rem 0;text-align:center}header{margin:1rem}h1{margin-bottom:1rem}ul{grid-gap:.5rem;display:grid;gap:.5rem;grid-template-columns:repeat(2,1fr);list-style:none;margin:0 1rem}li{padding:1rem 2rem}@media (min-width:45rem){body{height:100vh}ul{grid-template-columns:repeat(4,1fr);margin-top:2rem}li{padding:2rem 3rem}}@media (min-width:60rem){ul{grid-template-columns:repeat(8,1fr)}}
+/*# sourceMappingURL=main.715eb6f2.css.map*/
